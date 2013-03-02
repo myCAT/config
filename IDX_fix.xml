@@ -51,6 +51,8 @@
     <entry key="MAX_RESPONSE">200</entry>
 	<!--MAX_BROWSE: Maximum number of reference documents in the Hit List when using the Browse function (must be identical to the same parameter name in the GUI_fix.xml file)-->
 	<entry key="DOCNAME_MAX_BROWSE">1000</entry>
+	<!--DOCNAME_BROWSE_INSENSITIVE:  case_insensitive when using the Browse function -->
+	<entry key="DOCNAME_BROWSE_INSENSITIVE">true</entry>
  
 	<!--Number of words for the NEAR operator -->
     <entry key="NEAR_DISTANCE">8</entry>
