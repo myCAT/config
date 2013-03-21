@@ -50,6 +50,12 @@
 	<entry key="PP_H_MIN">2</entry>
 	<entry key="PP_H_MAX">8</entry>
 	
+	<!--TA_NEAR_AVG_TERM_CHAR: Average number of characters by token separating two near terms (must be identical to the same parameter name in the IDX_fix.xml file)-->
+	<entry key="TA_NEAR_AVG_TERM_CHAR">6</entry>
+	
+	<!--Number of words for the NEAR operator -->
+    <entry key="NEAR_DISTANCE">8</entry>
+	
 	<!--Name suffix added to the saved files in the QD and SQD-->
 	<entry key="SELFQD_FILE_EXT">_Parsedoc.html</entry>
 	<entry key="QD_FILE_EXT">_Refdoc.html</entry>
