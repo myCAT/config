@@ -82,4 +82,5 @@
 	<entry key="MAXIMIZE_ON">true</entry>
 	<!--RELOAD_PARAM_ON: true = -->
 	<entry key="RELOAD_PARAM_ON">true</entry>
+	<entry key="TA_HILITE_OVER_CR">true</entry>
 </properties>
