@@ -16,20 +16,20 @@
 	<!--ONLY_ON_FILE_NAME: true = limits the browse function to the file names (not on full paths)-->
 	<entry key="ONLY_ON_FILE_NAME">false</entry>
 	<!--BITEXT_ONLY: true = checks that there is a target version before displaying a reference document in the Hit List-->
-	<entry key="BITEXT_ONLY">true</entry>
+	<entry key="BITEXT_ONLY">false</entry>
 	<!--SAVE_ON: true = activates the Save buttons for source and target reference documents-->
 	<entry key="SAVE_ON">true</entry>
 	<!--Graphic and size parameters-->
     <entry key="CHARACTER_WIDTH">10</entry>
-	<entry key="TA_TEXTAREA_WIDTH">65</entry>
-    <entry key="TA_TEXTAREA_HEIGHT">35</entry>
+	<entry key="TA_TEXTAREA_WIDTH">59</entry>
+    <entry key="TA_TEXTAREA_HEIGHT">34</entry>
     <entry key="QD_HTMLAREA_HEIGHT">200</entry>
     <entry key="QD_TEXTAREA_HEIGHT">20</entry>
     <entry key="DOC_LIST_WIDTH">250</entry>
-    <entry key="DOC_LIST_HEIGHT">565</entry>
-    <entry key="QD_DOC_LIST_HEIGHT">360</entry>
+    <entry key="DOC_LIST_HEIGHT">560</entry>
+    <entry key="QD_DOC_LIST_HEIGHT">345</entry>
 	<!--MAX_RESPONSE: Maximum number of reference documents in the Hit List when using the Search function (must be identical to the same parameter name in the IDX_fix.xml file)-->
-	<entry key="MAX_RESPONSE">30</entry>
+	<entry key="MAX_RESPONSE">200</entry>
 	<!--MAX_BROWSE: Maximum number of reference documents in the Hit List when using the Browse function (must be identical to the same parameter name in the IDX_fix.xml file)-->
     <entry key="MAX_BROWSE">50</entry>
 	<!--MAX_SEARCH_SIZE: -->
