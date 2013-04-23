@@ -20,9 +20,11 @@
 	<!--SAVE_ON: true = activates the Save buttons for source and target reference documents-->
 	<entry key="SAVE_ON">true</entry>
 	<!--Graphic and size parameters-->
-    <entry key="CHARACTER_WIDTH">10</entry>
-	<entry key="TA_TEXTAREA_WIDTH">59</entry>
-    <entry key="TA_TEXTAREA_HEIGHT">34</entry>
+    <entry key="CHARACTER_WIDTH">9</entry>
+	<!-- TextArea line height in pixels, must be the same as in the .gwt-Textarea CSS class attribute line-height-->
+	<entry key="TA_LINE_HEIGHT">20</entry>
+	<entry key="TA_TEXTAREA_WIDTH">53</entry>
+    <entry key="TA_TEXTAREA_HEIGHT">26</entry>
     <entry key="QD_HTMLAREA_HEIGHT">200</entry>
     <entry key="QD_TEXTAREA_HEIGHT">20</entry>
     <entry key="DOC_LIST_WIDTH">250</entry>
