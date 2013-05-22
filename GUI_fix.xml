@@ -26,7 +26,7 @@
 	<entry key="TA_TEXTAREA_WIDTH">58</entry>
     <entry key="TA_TEXTAREA_HEIGHT">26</entry>
     <entry key="QD_HTMLAREA_HEIGHT">200</entry>
-    <entry key="QD_TEXTAREA_HEIGHT">20</entry>
+    <entry key="QD_TEXTAREA_HEIGHT">15</entry>
     <entry key="DOC_LIST_WIDTH">250</entry>
     <entry key="DOC_LIST_HEIGHT">560</entry>
     <entry key="QD_DOC_LIST_HEIGHT">345</entry>
@@ -46,7 +46,7 @@
 	
 	<!--Factors used to calculate the size of the search field for the highlight in the Quote Detector-->
 	<entry key="REF_FACTOR">1.7</entry>
-	<entry key="REF_MIN_LN">20</entry>
+	<entry key="REF_MIN_LN">40</entry>
 	
 	<!--Minimum and maximum size of the blue bars-->
 	<entry key="PP_H_MIN">2</entry>
@@ -60,7 +60,8 @@
 	
 	<!--Name suffix added to the saved files in the QD and SQD-->
 	<entry key="SELFQD_FILE_EXT">_Parsedoc.html</entry>
-	<entry key="QD_FILE_EXT">_Refdoc.html</entry>
+	<entry key="QD_FILE_EXT">_XXX_Refdoc.html</entry>
+	<entry key="QD_GENERAL_EXT">_Refdoc.html</entry>
 	<!--path and names of the Help files -->
 	<entry key="TA_HELP_URL">/documentation/howto_TA.pdf</entry>
 	<entry key="QD_HELP_URL">/documentation/howto_QD.pdf</entry>
