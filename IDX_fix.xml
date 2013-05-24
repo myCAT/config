@@ -84,7 +84,8 @@
 	 <entry key="OPEN_REF_END">&gt;</entry>
 	 <entry key="CLOSE_REF_BEG">&amp;lt;E</entry>
 	 <entry key="CLOSE_REF_END">]&lt;/FONT></entry>
-	 
+	 <entry key="SKIP_LINE_QUOTE_DECTECTOR">true</entry>
+
 	<!--parameters to get the Original documents -->  
 	<entry key="ORIGINAL_FULL_URL">/original/</entry>
 	 <entry key="ORIGINAL_HOST">localhost</entry>
