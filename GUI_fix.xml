@@ -92,4 +92,6 @@
 	<!--RELOAD_PARAM_ON: true = -->
 	<entry key="RELOAD_PARAM_ON">true</entry>
 	<entry key="TA_HILITE_OVER_CR">true</entry>
+	<entry key="CHOOSE_GUI_LANG">true</entry>
+	<entry key="CHOOSE_GUI_LANG_LIST">en;fr;ar;es</entry>
 </properties>
