@@ -14,7 +14,8 @@
     <entry key="OBJ_IMPLEMENTATION">XL</entry>
     <entry key="IDX_WITHDOCBAG">false</entry>
     <entry key="IDX_MORE_INFO">false</entry>
-    <entry key="IDX_SAVE_POSITION">true</entry>
+    <entry key="IDX_SAVE_POSITION">false</entry>
+    <entry key="IDX_ZIP_CACHE">true</entry>
 
 	<!--Number of independants disks (2^OBJ_PW2)-->     
     <entry key="OBJ_PW2">0</entry> 
